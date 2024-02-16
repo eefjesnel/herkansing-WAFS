@@ -1,0 +1,150 @@
+{
+    "firstName": "Eefje",
+    "lastName": "Snel",
+    "dateOfBirth": {
+        "year": 2002,
+        "month": 7,
+        "day": 11
+    },
+    "visitedCountries": [
+        {
+            "country": "Tanzania",
+            "recommendations": ["All safaries were amazing but the Serengeti safari was for me the absolute best.", "In Tanzania we also visited a local tribe, where they showed us their way of living, it was beautiful to see.", "If you want to go to Zanzibar aswell, you might want to check out Cheetah Rock, a completely cruelty free safe haven for endangered species."],
+            "rating": 5,
+            "experience": "Tanzania was by far one of my favorite holidays! The people are very kind and proud of their country and they love it when you show interest in their work and lives. I started learning a bit of Swahili so I could surprise them by speaking in their own language. The smile that appeared on their faces was more than worth learning the language! I felt very welcome and they even made me feel wanted :)",
+            "imgUrl": "images/tanzania.jpg",
+            "imgAlt": "picture of a jeep in the Serengeti with elephants"
+        },
+        {
+            "country": "Cuba",
+            "recommendations": ["I started of my trip in Havana, a lively and with that a messy city.", "I also visited Vinales, a valey where the villagers showed me how to make and smoke a sigar.", "Last, but not least, I went to Trinidad, here you can experience communism at it's worst and at it's best."],
+            "rating": 5,
+            "experience": "Cuba is a magical place! It feels like you're going back in time visiting this country. The old american cars belong to the rich and the horses belong to the poor. It seems like the communism turned the world in Cuba upsidedown. The people are content with what they have and they seem to live with a free spirit.",
+            "imgUrl": "images/cuba.jpg",
+            "imgAlt": "picture of downtown Havana"
+        },
+        {
+            "country": "Jamaica",
+            "recommendations": ["Jamaica has amazing nature, really green and it just feels fresh.", "If you want to do something a little more adentures, you can climb the Dun River Falls.", "Something a lot of people love to see is het blue lagoon, a beautiful light blue beach with a bar serving cold beer."],
+            "rating": 4,
+            "experience": "Jamaica is a beautiful green and vibrant country, but there is another side of the country most tourist do not inticipate on: the wealth is extremely divited which causes some anger and violence. This is mostly in the capitol, Kingston, which can better be avoided for that very reason. Otherwise Jamaica has a lot to offer; music, culture and beautiful nature. So if you avoid Kingston and focus on the peaceful side of Jamaica, you might just find a paradise you would want to stay forever.",
+            "imgUrl": "images/jamaica.jpg",
+            "imgAlt": "picture of a road with palmtrees"
+        },
+        {
+            "country": "Norway",
+            "recommendations": ["Norway is a great country for hiking and with the best view.", "Going on a little ferry through the fjords is breathtaking.", "If you go far enough north, you might be able to see the northern lights!"],
+            "rating": 4,
+            "experience": "Norway, the country known for it's gods and it's amazing fjords. The nature was truly magnificent and we were lucky to have great weather in August. We also went to this little viking village, were I was taught how the vikings used to live. There they had a very special church, it was made a long time ago but it was still standing strong.",
+            "imgUrl": "images/norway.jpg",
+            "imgAlt": "picture of a fjord with a village at the foot"
+        },
+        {
+            "country": "Croatia",
+            "recommendations": ["Split is a great city to visit as it is located at sea and has a little beach where you can play beachgames with locals and other tourists.", "Going to Hvar, is absolutely a must, it is a beautiful litlle city where you can go clubbing, shopping, swimming and everything else.", "You can take a ferry to Stari Grad, this is a very small habour where you can calm down after the city."],
+            "rating": 5,
+            "experience": "When I went to Croatia with a friend, we only visited Split, a large city at the coast. Two student, who didn't have a whole lot to spend, had a great holiday there. There was enough to do during the day and night. The only downside was the scorching heat. At times it was so hot, we spend the intire day in the sea and only started our day at five o'clock. ",
+            "imgUrl": "images/croatia.jpg",
+            "imgAlt": "picture of Spit, a white city"
+        },
+        {
+            "country": "England",
+            "recommendations": ["If you are a fan of Harry Potter, you might want to check out the Warner Bros studios. It was truly magical ;)", "London at chrismas time is really cosy and this city is lit beautifully in the winter.", "If you are thinkin about ordering an iced tea, expect english tea in iced water. "],
+            "rating": 4,
+            "experience": "I went to England only for a long weekend and I had the time of my life. We actually never left London but I'd love to see more of England later on. London was amazing, we went in the winter, so there was snow everywhere and the christmas spirit was up. We had so much to do and we had a blast, me and my mom. ",
+            "imgUrl": "images/england.jpg",
+            "imgAlt": "picture of London, shot from a drone"
+        },
+        {
+            "country": "Spain",
+            "recommendations": ["If you like architecture, you will love all the ways Gaudì has coloured the country with his buildings.", "I also went to Ibiza, it is ofcourse well known as a party island, but it has a lot more to offer.", "Spain has a few island of the coast of north-west Africa. These island are absolutly beautiful, my favorite is Lanzarote."],
+            "rating": 4,
+            "experience": "Spain has been a favorite holiday destination in my family for a while now. We love the people there and we love the food. We were with 14 in a big house in the middel of August and ofcourse, it was way to hot to do anything. It was a great excuse to swim in the pool all day! ",
+            "imgUrl": "images/spain.jpg",
+            "imgAlt": "picture of a building made by Gaudi"
+        },
+        {
+            "country": "France",
+            "recommendations": ["Go to the cities, the big cities are fun and there is lots to do.", "the mountains are great for hiking and exploring nature.", "France is a very good country for camping, it is nice and warm at night and you can often do a lot of fun things outside in the summer."],
+            "rating": 2,
+            "experience": "I have been to France a number of times and the people seem to be very unhappy whenever they see a tourist. I know tourists are not always great, but the french people really don't like them. France is a fun and beautiful country, but I do not have the best memories there.",
+            "imgUrl": "images/france.jpg",
+            "imgAlt": "picture of the Eiffel tower"
+        },
+        {
+            "country": "Belgium",
+            "recommendations": ["Dinant is a gorguous little village at the river with a amazing church.", "The Ardennes were in WO2 a great battlefield, in particular in Bastogne. There, in Bastogne, is a large museum and monument to remember the war and it's victims.", "Belgium has a lot of litlle creeks and rivers that are great for kayaking. It is a lot of fun to do for all ages."],
+            "rating": 3,
+            "experience": "My family has a family home in the Ardennes. My Grandfather was an architect and he designed and build that home together with my parents and aunts and uncles. I have very loving memories in that house and I always love to go there! But Belgium is a little like the netherlands; it rains a lot. ",
+            "imgUrl": "images/belgium.jpg",
+            "imgAlt": "picture of old architecture at the river"
+        },
+        {
+            "country": "Italy",
+            "recommendations": ["Florence is a great city, lively, but not as busy as rome.", "I also went to Venice, a great city! I liked the glass blowing the best.", "Visit Italy in May or June for the best wheather."],
+            "rating": 4,
+            "experience": "Italy, I love Italy! The italian people live in a very cosy and loving way in my opinion. Tuscany is a sight for sore eyes, but is is so incredibly hot in Italy. I remember being in a little village and dancing with the locals after eating at their little, but delicious restaurant. I made some of my fondest memories there. ",
+            "imgUrl": "images/italy.jpg",
+            "imgAlt": "picture of Venice"
+        },
+        {
+            "country": "Portugal",
+            "recommendations": ["On either side of the river in Porto is an amazing sunset view in the evenings.", "Sit at any restaurant and get excellent sangria!", "You can take a little cable car over the river and enjoy the great view. "],
+            "rating": 5,
+            "experience": "Portugal and specifically Porto was amazing! There was a lot to see and even more to do. We enjoyed our fair share of aangria and the Pastel de nata was delicious. I would love to go back there one day because I could only smile while I was there.",
+            "imgUrl": "images/portugal.jpg",
+            "imgAlt": "picture of Porto, a bridge over a river"
+        },
+        {
+            "country": "Scotland",
+            "recommendations": ["We did go to the highland games and it was really truly amazing! Everyone is joyfull and cheering, it is great fun.", "The ferry to scotland is real fancy and has great food."],
+            "rating": 2,
+            "experience": "Scotland is such a magical country but when I was there with my family we all got extremely sick. So we didn't do a whole lot whilst we were there.",
+            "imgUrl": "images/scotland.jpg",
+            "imgAlt": "picture of a european bizon on a rocky hill"
+        },
+        {
+            "country": "Ireland",
+            "recommendations": ["Dublin is the best place to shop and get a nice hot tea during the rain.", "Dublin also has a large and beautiful library that is worth seeing."],
+            "rating": 3,
+            "experience": "I went to Ireland with my family and friends and we had neighboring cabins. We would play cards together and go to the campingdiner to get us some supper. It was real cosy and fun but we didn't get to see much of the country because of constant rain.",
+            "imgUrl": "images/ireland.jpg",
+            "imgAlt": "picture of green clifs at the coast of Ireland"
+        },
+        {
+            "country": "United Kingdom",
+            "recommendations": ["If you are a fan of Harry Potter, you might want to check out the Warner Bros studios. It was truly magical ;)", "We went to the highland games and it was really truly amazing! Everyone is joyfull and cheering, it is great fun.", "London at chrismas time is really cosy and this city is lit beautifully in the winter."],
+            "rating": 4,
+            "experience": "I went to both Scotland and England with my family, sadly we all got sick the moment we got of the ferry.",
+            "imgUrl": "images/unitedkingdom.jpg",
+            "imgAlt": "picture of green clifs at the coast of Ireland"
+        }
+
+    ],
+    "bucketList": [
+        {
+            "country": "Peru",
+            "reason": "I have wanted to go to Peru for years because of it's many amazing sites. Aside from Machu Pichu Peru has a lot of other rare sitings to go to. I'm also drawn to Peru because of the people and the nature.",
+            "imgUrl": "images/peru.jpg",
+            "imgAlt": "picture of machu pichu"
+        },
+        {
+            "country": "Chile",
+            "reason": "Chile is a country that knows almost every climate and is therefor really interesting to me. You can start your holiday in the desert and end it in the snow. That is magical to me. ",
+            "imgUrl": "images/chile.jpg",
+            "imgAlt": "picture of horses with mountains in the distance"
+        },
+        {
+            "country": "South Africa",
+            "reason": "I have been to Tanzania and the safaries there were so amazing that I want to do that as much as I can. I've heard great things about the safaries in South Africa and I'd love to see that for myself one day.",
+            "imgUrl": "images/south-africa.jpg",
+            "imgAlt": "picture of rainforest"
+        },
+        {
+            "country": "Sri Lanka",
+            "reason": "My sister has gone on a trip to Sri Lanka recently and she fell in love with the country and the people. I have seen her pictures and I think I would like it there to!",
+            "imgUrl": "images/sri-lanka.jpg",
+            "imgAlt": "picture of trainride through nature"
+        }
+    ]
+}
