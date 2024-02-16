@@ -28,7 +28,6 @@ const cards = (response) => {
         countryH2.textContent = randomCountry.country;
         countryImg.src = randomCountry.imgUrl;
         countryImg.alt = randomCountry.imgAlt;
-        console.log(randomCountry.rating)
 
         console.log("alles werkt nog");
 

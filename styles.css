@@ -14,7 +14,6 @@
 }
 
 body{
-    background: lightblue;
     margin: 2rem;
 }
 
@@ -191,15 +190,19 @@ section article:nth-of-type(17){
     object-fit: cover;
 }
 
-.backOfCard div {
+.backOfCard > div {
     width: auto;
     height: auto;
     display: flex;
     justify-content: center;
-    flex-direction: row-reverse;
+
+
+    /* flex-direction: row-reverse; */
 
     /* Ik weet niet precies waarom, maar eerst komen de lege steren allemaal te staan en daarna pas de gevulde sterren. In de inspector kan je wel zien dat ze in de html wel goed om worden geplaatst. 
     Ik heb het nu met css row-reverse opgelost, maar dat is misschien niet de beste oplossing. */
+
+    /* update: dit lag aan de styling verder bovenin het css bestand. */
 
     align-items: start;
 }
