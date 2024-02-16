@@ -11,7 +11,7 @@ Toch is het me bijna zonder hulp gelukt en ik ben daar echt heel erg blij mee. I
 Ik kwam wel een aantal probleempjes tegen:
 * Ik had geen idee wat de methode was om een item uit een array te krijgen. Ik kon het niet echt vinden op google dus vroeg ik de volgende prompt aan chatGPT: 
 ***What Javascript attribute do I use to delete an item from an array?***
-![conversatie met chatGPT over splice](herkansing-WAFS/images/splice-method.png)
+![conversatie met chatGPT over splice](images/splice-method.png)
 vanuit daar heb ik op mdn splice opgezocht en een beetje zitten proberen en gelukkig lukte het na een tijdje.
 ![splice method gebruiken in javascript](herkansing-WAFS/images/splice-in-code.png)
 * Een ander probleem dat ik had was het schrijven van de if statement in de forEach funcie. Ik wist niet precies welke condition ik mee moest geven. Ik wist dat het iets moest zijn als blabla.rating,    maar ik wist niet meteen wat op de plek van blabla moest komen te staan. Eerst had ik bedacht dat ik de rating van de landen wilde hebben dus allCountries.rating, maar dit werkte niet. Uiteindelijk had ik nog even mijn vorrige code bekeken en zag ik dat de condition waarschijnlijk voor specifieker moest zijn, dus keek ik terug in mijn code en zag ik dat het randomCountry.rating moest zijn. Gelukkig werkte het zoen wel.
