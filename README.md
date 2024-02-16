@@ -20,7 +20,7 @@ vanuit daar heb ik op mdn splice opgezocht en een beetje zitten proberen en gelu
 Ik had het opgelost met row-reverse op de div waar de sterren in staan, maar dit leek me niet de meeste elegante oplossing. Het leek niet een probleem te zijn in de javascript dus ik heb nog even rondgekeken en het lag aan een stukje css styling dat niet geen specifieke selector had.
 ![dit was het probleem van de omgedraaide sterren](images/sterrenprobleem-gevonden.png)
 ![dit was de oplossing](images/sterrenprobleem-opgelost.png)
-Zoals je kan zien aan de afbeeldingen heb ik dit probleem opgelost, maar op github wil hij het > niet oppakken. 
+* Ik heb nu weer 1 grote functie en ik ging proberen om die uit elkaar te halen, maar toen liep ik tegen een probleem aan. Ik had in de ene functie allemaal variabele aangemaakt, die ik daarna in de andere functie niet meer kon gebruiken. Ik weet niet helemaal hoe dat dan moet doen. Dat ga ik proberen uit te zoeken. 
 
 ### reflectie 
 Ik heb al mijn pijnpuntjes kunnen oplossen zonder om hulp te moeten vragen, dus dat voelt heel goed.
