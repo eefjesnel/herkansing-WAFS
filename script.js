@@ -52,6 +52,37 @@ const cards = (response) => {
             }
         }
 
+        const popupButton = card.querySelector(".popupButton");
+        const popUpElement = document.querySelector("section:nth-of-type(1) dialog");
+
+        popupButton.addEventListener("click", () => {
+            const headingElement = document.querySelector("section:nth-of-type(1) dialog h2");
+            // Hier wordt het land toegevoegd aan een h2 element in de popup
+            headingElement.textContent = randomCountry.country;
+            const dialogText = document.querySelector("section:nth-of-type(1) dialog p");
+            // Hier gebruik ik een if else functie om af te vangen of er in de "p" in de popup de experience of de reason moet staan.
+            if (randomCountry.experience){
+                dialogText.textContent = randomCountry.experience;
+            }
+            else{
+                dialogText.textContent = randomCountry.reason;
+            }
+            const dialogRecommendations = document.querySelector("section:nth-of-type(1) dialog ul");
+            // Hier zet ik in de ul de recommendations en maak ik met een for each function bij elke recommendation een "li" item aan.
+            dialogRecommendations.innerHTML = ""
+            if (randomCountry.recommendations){
+                randomCountry.recommendations.forEach((recommendation)=>{
+                    // Hier maak ik het een constante voor het "li" item
+                    const li = document.createElement("li");
+                    li.textContent = recommendation;
+                    // hier wordt het "li" item daadwerkelijk toegevoegd.
+                    dialogRecommendations.append(li);
+                })
+            }
+            // Dit zorgt ervoor dat de dialog in beeld komt wanneer je klikt op de button.
+            popUpElement.showModal();
+        });
+
     })   
 }
 
