@@ -2,7 +2,7 @@
 nieuwe nette code voor de herkansing van WAFS
 
 ## mini procesverslag
-Een nieuwe repository een nieuwe README :)
+Een nieuwe repository, een nieuwe README :)
 
 Zelfs na ons gesprekje van vrijdag 16 feb, vond ik het nog steeds lastig om de javascript code te schrijven voor de kaartjes. 
 Toch is het me bijna zonder hulp gelukt en ik ben daar echt heel erg blij mee. Ik heb al meteen iets meer vertrouwen in de rest van de minor. 
